@@ -1,0 +1,12 @@
+{
+  "name": "MetalScout",
+  "short_name": "MetalScout",
+  "description": "Metal detection by drone or ground robot",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0f11",
+  "theme_color": "#0b0f11",
+  "lang": "ru",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
